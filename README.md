@@ -6,4 +6,3 @@ This is a multifunctional interactive Arduino-based system that integrates an ul
 <img width="980" height="671" alt="image" src="https://github.com/user-attachments/assets/497c6f0d-0a56-4dca-b8eb-938013b12e1d" />
 <img width="973" height="691" alt="image" src="https://github.com/user-attachments/assets/944c64bb-5c6c-488c-be13-ec1ef3936a5c" />
 <img width="995" height="691" alt="image" src="https://github.com/user-attachments/assets/f4c45531-9c5e-4430-b391-3cc4232bc852" />
-<img width="1034" height="666" alt="image" src="https://github.com/user-attachments/assets/abb69f05-359d-4069-aa14-7f8949cccb50" />
